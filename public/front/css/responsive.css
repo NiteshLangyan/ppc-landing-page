@@ -1,0 +1,945 @@
+@media screen and (min-width: 1921px) {
+  .container-fluid {
+    max-width: 1920px;
+  }
+}
+@media screen and (max-width: 1750px) {
+  .container-fluid {
+    padding-left: 130px;
+    padding-right: 130px;
+  }
+  .site-logo img {
+    width: 150px;
+  }
+  .site-menu.main-menu.js-clone-nav.ml-auto.d-none.d-lg-block.wdsdsd a {
+    font-size: 13px;
+  }
+  .site-navigation.text-right.ml-auto .nav-link.contact-s {
+    padding: 12px 21px;
+    font-size: 15px;
+  }
+  .site-navbar .site-navigation .site-menu > li > a {
+    font-size: 15px;
+  }
+  .wqqqx {
+    padding: 13px 25px;
+    font-size: 15px;
+  }
+  .wqqqx img {
+    top: 2.5px;
+    width: 43px;
+  }
+  .up-cdd {
+    display: flex;
+    align-items: flex-start;
+    padding: 0px 0px 16px 75px;
+  }
+  .about h2 {
+    font-size: 20px;
+    line-height: 31px;
+  }
+  .about p {
+    font-size: 16px;
+  }
+  .nx-px {
+    position: absolute;
+    bottom: -126px;
+    left: -382px;
+    width: 500px;
+  }
+  .scrollc div {
+    font-size: 3em;
+  }
+  .u_xs .asxxz {
+    width: 94%;
+  }
+  .wsss {
+    right: 101px;
+    bottom: 44px;
+    width: 144px;
+  }
+  .Crypto h1 {
+    font-size: 60px;
+  }
+  .texcp h2 {
+    font-size: 60px;
+  }
+  .banner {
+    padding-top: 8em;
+    height: 88vh;
+  }
+  .Crypto p {
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0.5em 0 2em 0;
+    width: 72%;
+  }
+  .Crypto a {
+    background-color: #fff219;
+    padding: 14px 20px;
+    font-size: 15px;
+  }
+  .up-cdd img {
+    width: 33px;
+    position: relative;
+    right: 10px;
+    top: -6px;
+  }
+  .qzxsss img {
+    right: -29px;
+    bottom: -12px;
+    width: 41px;
+  }
+  .Crypto a:hover img {
+    right: -39px;
+    width: 35px;
+    bottom: 8px;
+  }
+  .mx-j {
+    width: 351px;
+  }
+  .bounce {
+    padding: 14px;
+  }
+  .INQUIRE-s {
+    padding: 15px 50px 15px 25px;
+    font-size: 15px;
+  }
+  .INQUIRE-s img {
+    right: -5px;
+    bottom: -7px;
+    width: 40px;
+  }
+  .INQUIRE-s:hover img {
+    right: -15px;
+    transition: 0.5s;
+    width: 33px;
+    bottom: 3px;
+  }
+  .Services h3 {
+    font-size: 37px;
+    margin: 0;
+  }
+  .Services p {
+    font-size: 14px;
+    line-height: 25px;
+  }
+  .security p {
+    font-size: 13px;
+    line-height: 25px;
+    width: 100%;
+  }
+  .security.monitoring {
+    padding: 20px 17px;
+  }
+  .your-accuracy {
+    margin-top: 2em;
+  }
+  .security h4 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    margin-top: 15px;
+  }
+  .security.monitoring.Responsess h4 {
+    font-weight: 700;
+    font-size: 20px;
+  }
+  .security p {
+    font-size: 14px;
+    line-height: 22px;
+    width: 100%;
+  }
+  .Auditing h5 {
+    font-size: 48px;
+  }
+  .Auditing p {
+    width: 83%;
+    line-height: 28px;
+    font-size: 14px;
+  }
+  .contact-us h5 {
+    font-size: 40px;
+  }
+  .main-form input {
+    font-size: 14px;
+  }
+  .main-form textarea {
+    font-size: 14px;
+    height: 164px;
+  }
+  .journey.get.Asked h6 {
+    font-size: 62px;
+  }
+  .accordion
+    .accordion-item
+    .accordion-header
+    button.accordion-button.collapsed {
+    font-size: 15px;
+  }
+  .accordion .accordion-item .accordion-body p,
+  .accordion .accordion-item .accordion-body ul li {
+    font-size: 15px;
+    letter-spacing: 0.5px;
+    line-height: 25px;
+  }
+  .accordion-button {
+    font-size: 16px;
+  }
+  .main-form {
+    padding: 90px 90px;
+  }
+  .let-contact h5 {
+    font-size: 35px;
+  }
+  .dsd {
+    margin-top: -20em;
+  }
+  .let-contact p {
+    font-size: 15px;
+  }
+  .xcxc {
+    position: relative;
+    top: 16em;
+  }
+  .nPsd .adsa {
+    position: absolute;
+    right: -4em;
+    bottom: -10em;
+    width: 236px;
+  }
+  .cceexx {
+    padding: 66px 70px;
+  }
+  .m-Initial h5 {
+    font-size: 42px;
+    margin-bottom: 17px;
+  }
+  .cceexx h4 {
+    font-size: 60px;
+  }
+  .withinsd.yourss h2 {
+    margin: 9px 0;
+    font-size: 32px;
+    color: #15140f;
+    line-height: 40px;
+  }
+  .withinsd.yourss span {
+    font-size: 15px;
+  }
+  .about .withinsd.yourss p {
+    font-size: 16px;
+    margin: 4px 0 0 0;
+  }
+  .security.monitoring.xsuccess {
+    width: 100%;
+  }
+  .security.monitoring.xsuccess .bounce {
+    width: 70px;
+  }
+
+  .contact-us {
+    padding: 580px 0px 330px 0px;
+  }
+  .contact-us h5 {
+    font-size: 70px;
+  }
+  .main-form img {
+    width: 67px;
+    top: 24px;
+    left: -14px;
+  }
+  .main-form p {
+    font-size: 15px;
+    margin-top: 30px;
+    line-height: 26px;
+    width: 80%;
+  }
+  .main-form input {
+    padding: 11px 16px;
+    font-size: 13px;
+  }
+  .main-form select {
+    padding: 13px 16px;
+    font-size: 13px;
+  }
+  .main-form textarea {
+    font-size: 13px;
+    height: 100px;
+  }
+  .main-form {
+    padding: 0;
+  }
+  footer ul li a {
+    margin-right: 35px;
+    font-size: 17px;
+  }
+  .Copyright {
+    padding: 16px 0;
+    margin-top: 32px;
+  }
+  .mail-s li a {
+    margin: 25px 0 0 0;
+    font-size: 14px;
+  }
+  .pxxx h6 {
+    font-size: 16px;
+  }
+  .pxxx p {
+    margin: 25px 0;
+    font-size: 14px;
+  }
+  .Copyright p {
+    font-size: 11px;
+  }
+}
+
+/* @media screen and (max-width: 1500px) {
+  .site-navbar .site-navigation .site-menu > li > a {
+    font-size: 14px;
+  }
+  .site-navigation.text-right.ml-auto .nav-link.contact-s {
+    font-size: 14px;
+  }
+  .site-navbar {
+    padding: 10px 0;
+  }
+  .site-logo img {
+    width: 240px;
+  }
+  .Crypto {
+    padding-left: 4em;
+  }
+  .Crypto p {
+    font-size: 14px;
+    width: 80%;
+  }
+  .banner::after {
+    width: 400px;
+  }
+  .Crypto a {
+    font-size: 15px;
+    padding: 11px 20px;
+  }
+  .top-banner {
+    width: 30%;
+    right: 130px;
+    bottom: -7px;
+    z-index: 3;
+  }
+  .withinsd span {
+    font-size: 15px;
+  }
+  .about h2 {
+    font-size: 20px;
+  }
+  .about p {
+    font-size: 14px;
+    margin: 6px 0;
+  }
+  .security h4 {
+    margin-bottom: 11px;
+    font-size: 15px;
+    margin-top: 8px;
+    line-height: 21px;
+  }
+  .security.monitoring p {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  .Services span {
+    color: #000;
+    font-size: 15px;
+  }
+  .Services h3 {
+    font-size: 28px;
+    margin: 0;
+  }
+  .security.monitoring.Responsess h4 {
+    font-size: 18px;
+  }
+  .let-contact h5 {
+    font-size: 30px;
+  }
+  .n_x input {
+    font-size: 14px;
+  }
+  .c_sc span {
+    font-size: 15px;
+  }
+  .c_sc i {
+    font-size: 25px;
+    position: relative;
+    top: 0px;
+  }
+  .withinsd.yourss span {
+    font-size: 14px;
+  }
+  .about .withinsd.yourss p {
+    font-size: 15px;
+  }
+  .withinsd.yourss h2 {
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .security.monitoring.xsuccess p {
+    margin: 7px 0 0 0;
+    width: 100%;
+    line-height: 21px;
+  }
+  .your-accuracy {
+    margin-top: 1em;
+  }
+  .security.monitoring.xsuccess .bounce {
+    width: 62px;
+  }
+  .cmx .security.monitoring p {
+    font-size: 13px;
+    line-height: 22px;
+  }
+  .contact-us h5 {
+    font-size: 30px;
+  }
+  .main-form button {
+    font-size: 14px;
+    width: 135px;
+    margin-top: 2em;
+    padding: 12px 10px;
+  }
+  .main-form {
+    padding: 60px 50px;
+  }
+  .main-form input {
+    padding: 13px 16px;
+  }
+  .main-form textarea {
+    font-size: 14px;
+    height: 130px;
+    padding: 13px 16px;
+  }
+  .main-form button i {
+    font-size: 20px;
+  }
+  footer ul li a {
+    font-size: 14px;
+  }
+  .CONT-sACTs span {
+    font-size: 13px;
+  }
+} */
+@media screen and (max-width: 1400px) {
+  .container-fluid {
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+  .banner {
+    padding-top: 8em;
+    height: 66vh;
+  }
+  .banner .container-fluid {
+    height: 66vh;
+  }
+  .banner .row {
+    height: 66vh;
+  }
+  .of-s {
+    left: 0;
+    position: relative;
+  }
+  .contact-us h5 {
+    font-size: 62px;
+  }
+}
+@media screen and (max-width: 1280px) {
+.banner {
+height: 79vh;
+}
+}
+@media screen and (max-width: 1200px) {
+  .container-fluid {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .top-banner {
+    width: 48%;
+    right: 0;
+    bottom: -7px;
+    z-index: 3;
+  }
+  .Crypto {
+    padding-left: 0em;
+  }
+  .site-navbar .site-navigation .site-menu > li > a {
+    margin-left: 2px;
+    padding: 5px 9px;
+  }
+  .site-navigation.text-right.ml-auto .nav-link.contact-s {
+    padding: 9px 16px;
+    font-size: 15px;
+  }
+  .banner::after {
+    width: 230px;
+    right: 14%;
+  }
+  .banner {
+    height: 40vh;
+    padding-top: 4em;
+  }
+  .banner .container-fluid {
+    height: 40vh;
+  }
+  .banner .row {
+    height: 40vh;
+  }
+  .Crypto h1 {
+    font-size: 50px;
+  }
+  .texcp h2 {
+    font-size: 50px;
+  }
+  .security.monitoring.xsuccess .Excellence {
+    flex: 0 81%;
+  }
+  .s {
+    border-radius: 11px;
+  }
+  .cmx img {
+    border-radius: 11px;
+  }
+  .security.monitoring.Responsess:last-child .incident .x-incident {
+    flex: 70%;
+    padding: 10px 16px;
+  }
+  .c_sc {
+    width: 133px;
+  }
+  .let-contact h5 {
+    font-size: 27px;
+  }
+
+  .c_sc i {
+    font-size: 23px;
+    position: relative;
+    top: -1px;
+  }
+  .nx-px {
+    bottom: -255px;
+    left: 0;
+    width: 74%;
+    margin: 0 auto;
+    right: 0;
+  }
+  .Services h3 {
+    font-size: 29px;
+    margin: 0;
+    padding-top: 55px;
+    width: 100%;
+    line-height: 41px;
+  }
+  .dsd {
+    margin-top: -15em;
+  }
+  .cybersecurity {
+    padding-left: 0;
+  }
+  .nPsd h5 {
+    font-size: 55px;
+  }
+  .nPsd .adsa {
+    position: absolute;
+    right: -3em;
+    bottom: -7em;
+    width: 215px;
+  }
+  .xeveryone {
+    margin: 17px 0 9px 0;
+  }
+  .cceexx {
+    padding: 66px 70px;
+    border-top-left-radius: 104px;
+    border-bottom-right-radius: 104px;
+  }
+  .Services.if-you-want {
+    padding: 0 0 176px 0;
+  }
+  .m-Initial h5 {
+    font-size: 38px;
+    margin-bottom: 13px;
+  }
+  .cceexx h4 {
+    font-size: 50px;
+  }
+  .contact-us h5 {
+    font-size: 55px;
+  }
+  .main-form.pcsb {
+    padding-left: 30px;
+  }
+  .main-form p {
+    font-size: 15px;
+    margin-top: 30px;
+    line-height: 22px;
+    width: 100%;
+  }
+  .journey.get.Asked h6 {
+    font-size: 54px;
+    margin-bottom: 30px;
+  }
+  .accordion-button {
+    padding: 1rem 1rem;
+  }
+  .ux {
+    padding: 40px;
+  }
+  .withinsd.yourss h4 {
+    font-size: 50px;
+    margin-top: 58px;
+  }
+  .accordion {
+    padding-bottom: 80px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .icon-menu {
+    color: #fff !important;
+    font-size: 30px;
+  }
+  .about h2 {
+    font-size: 19px;
+    line-height: 28px;
+  }
+  .withinsd.qzzz {
+    margin-top: -14px;
+    width: 94%;
+  }
+  .about p {
+    font-size: 16px;
+  }
+  .Services h3 {
+    font-size: 26px;
+    margin: 0;
+    padding-top: 55px;
+    width: 100%;
+    line-height: 36px;
+  }
+  .ux {
+    padding: 23px;
+  }
+  .let-contact {
+    width: 88%;
+  }
+  .nPsd {
+    padding: 70px;
+    width: 91%;
+  }
+  .nPsd h5 {
+    font-size: 49px;
+    width: 242px;
+  }
+  .nPsd .adsa {
+    position: absolute;
+    right: -3em;
+    bottom: -6em;
+    width: 174px;
+  }
+  .m-Initial {
+    border-bottom: 1px solid rgb(255 255 255 / 13%);
+    padding-bottom: 0;
+    margin-bottom: 18px;
+  }
+  .cceexx h4 {
+    font-size: 40px;
+  }
+  .nkux {
+    text-align: right;
+    width: 78%;
+  }
+  .journey.get.Asked h6 {
+    font-size: 50px;
+    margin-bottom: 30px;
+  }
+  .accordion-button {
+    font-size: 15px;
+  }
+  .pxxx p {
+    margin: 25px 0;
+    font-size: 13px;
+  }
+}
+
+@media screen and (max-width: 820px) {
+  .banner {
+    height: 52vh;
+    padding-top: 4em;
+  }
+  .banner .container-fluid {
+    height: 50vh;
+  }
+  .banner .row {
+    height: 44vh;
+  }
+  .about h2 {
+    font-size: 17px;
+    line-height: 26px;
+  }
+  .Services {
+    padding: 113px 0 50px 0;
+  }
+  .u_xs .asxxz {
+    width: 95%;
+  }
+  .nPsxs {
+    margin-top: -24em;
+  }
+  .wsss {
+    right: 71px;
+    bottom: 44px;
+    width: 105px;
+  }
+  .dsd {
+    margin-top: -69px;
+  }
+  .xcxc {
+    position: relative;
+    top: 4em;
+  }
+  .nPsd h5 {
+    font-size: 42px;
+    width: 187px;
+  }
+  .m-Initial h5 {
+    font-size: 33px;
+  }
+  .contact-us h5 {
+    font-size: 50px;
+  }
+  .main-form img {
+    width: 56px;
+    top: 15px;
+    left: -11px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .container-fluid {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+  .banner {
+    padding-top: 5em;
+    height: auto;
+  }
+  .site-logo img {
+    width: 115px;
+  }
+  a.wqqqx.dawqsd {
+    display: none;
+  }
+  .of-s {
+    width: 100%;
+  }
+  .up-cdd {
+    padding: 0px 0px 00;
+  }
+  .banner {
+    padding-top: 6em;
+    height: auto;
+  }
+  .banner .container-fluid {
+    height: auto;
+  }
+  .banner .row {
+    height: auto;
+  }
+  .Crypto h1 {
+    font-size: 34px;
+  }
+  .mixs-x {
+    flex: 0 100%;
+  }
+  .texcp h2 {
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin: 0;
+  }
+  .of-s {
+    width: 100%;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+  }
+  .mx-j {
+    width: 151px;
+  }
+  .texcp {
+    flex: 0 100%;
+  }
+  .Crypto h1 {
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin: 0;
+  }
+  .Crypto p {
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0.5em 0 2em 0;
+    width: 101%;
+  }
+  .Crypto a {
+    background-color: #fff219;
+    padding: 13px 17px;
+    font-size: 14px;
+  }
+  .Crypto a:hover img {
+    right: -34px;
+    width: 30px;
+    bottom: 9px;
+  }
+  .of-s .mixs-x img {
+    width: 166px;
+  }
+  .qzxsss img {
+    right: -29px;
+    bottom: -8px;
+    width: 34px;
+  }
+  .up-cdd img {
+    top: -6px;
+  }
+  .about {
+    padding: 22px 0 70px 0;
+  }
+  .about h2 {
+    margin-bottom: 24px;
+  }
+  .b_xMx {
+    padding: 16px 0px 0px 0;
+    position: relative;
+  }
+  .nx-px {
+    bottom: -191px;
+    left: 0;
+    width: 71%;
+    margin: 0 auto;
+    right: 0;
+  }
+  .scrollc div {
+    animation: animate 5s linear infinite;
+    animation-delay: -5s;
+  }
+  .u_xs .asxxz {
+    width: 100%;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+  .wsss {
+    right: 4px;
+    bottom: 16px;
+    width: 82px;
+  }
+  .Services {
+    padding: 76px 0 50px 0;
+  }
+  .nPsxs {
+    margin-top: 46px;
+  }
+  .dsd {
+    margin-top: -257px;
+  }
+  .let-contact h5 {
+    font-size: 27px;
+    margin-top: 30px;
+  }
+  .let-contact {
+    width: 100%;
+  }
+  .container-fluid.xcxc .row {
+    flex-direction: column-reverse;
+  }
+  .xcxc .let-contact {
+    padding-top: 24px;
+  }
+  .nPsd .adsa {
+    position: absolute;
+    right: -29px;
+    bottom: -2em;
+    width: 157px;
+  }
+  .Services h3 {
+    padding-top: 28px;
+  }
+  .Services p {
+    width: 100%;
+  }
+  .Services.if-you-want {
+    padding: 0 0 60px 0;
+  }
+ .cceexx {
+    padding: 36px 26px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+  .cceexx .row {
+    flex-direction: column-reverse;
+  }
+  .m-Initial h5 {
+    font-size: 29px;
+    margin-bottom: 0;
+  }
+  .cceexx h4 {
+    font-size: 34px;
+  }
+  .nkux {
+    text-align: right;
+    width: 95%;
+  }
+  .contact-us {
+    padding: 520px 0px 209px 0px;
+  }
+  .main-form.pcsb {
+    padding-left: 0;
+  }
+  .contact-us .row {
+    flex-direction: column-reverse;
+  }
+  .contact-us h5 {
+    font-size: 44px;
+  }
+  .main-form p {
+    font-size: 15px;
+    margin-top: 13px;
+    line-height: 22px;
+    width: 100%;
+  }
+  .main-form {
+    padding: 0;
+    margin-top: 27px;
+  }
+  .INQUIRE-s {
+    padding: 11px 28px 12px 17px;
+    font-size: 15px;
+    margin-top: 16px;
+  }
+  .main-form button i {
+    font-size: 20px;
+  }
+  .journey.get.Asked h6 {
+    font-size: 41px;
+    margin-bottom: 30px;
+    margin-top: 1em;
+  }
+  .journey.get.Asked {
+    margin-top: -75px;
+  }
+  .pxxx {
+    margin-top: 3em;
+  }
+  footer {
+    padding: 56px 0 30px 0;
+  }
+}
+@media screen and (max-width: 675px) {
+  .site-mobile-menu {
+    width: 100%;
+  }
+}
